@@ -14,7 +14,7 @@ problem_user
 performance_glitch_user
 */
 
-int usuariosConocidos = 4;
+Int usuariosConocidos = 4;
 int usuariosRotos = 2;
 
 double pUsuariosRotos = (double) usuariosRotos / usuariosConocidos * 100;
